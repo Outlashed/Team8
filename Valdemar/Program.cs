@@ -8,7 +8,7 @@
         {
 
             // Opgave 1 - Studie-info
-            /*
+            
             {
 
 
@@ -34,9 +34,9 @@
 
             }
 
-*/
+
             // Opgave 2 - Temperatur
-            /*
+            
                         {
 
                             Console.Clear();
@@ -78,9 +78,9 @@
                             }
                         }
 
-            */
+            
             // Opgave 3 - BMI
-            /*
+            
                         Console.WriteLine("You've selected the BMI-calculator.");
 
                         Console.WriteLine("Your Height (in meters): ");
@@ -102,7 +102,7 @@
 
                         if (bmi > 29.9)
                             Console.WriteLine($"Your bmi is {bmi} which puts you in the Obese category.");
-            */
+           
 
             // Opgave 3 - BMI
 
