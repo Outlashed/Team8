@@ -1,0 +1,15 @@
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\obj\Debug\net9.0\25feb.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\obj\Debug\net9.0\25feb.AssemblyInfoInputs.cache
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\obj\Debug\net9.0\25feb.AssemblyInfo.cs
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\obj\Debug\net9.0\25feb.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\obj\Debug\net9.0\25feb.sourcelink.json
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\bin\Debug\net9.0\25feb.exe
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\bin\Debug\net9.0\25feb.deps.json
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\bin\Debug\net9.0\25feb.runtimeconfig.json
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\bin\Debug\net9.0\25feb.dll
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\bin\Debug\net9.0\25feb.pdb
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\obj\Debug\net9.0\25feb.dll
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\obj\Debug\net9.0\refint\25feb.dll
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\obj\Debug\net9.0\25feb.pdb
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\obj\Debug\net9.0\25feb.genruntimeconfig.cache
+C:\xampp\htdocs\datamatiker_s1y1\Rasmus\25feb\obj\Debug\net9.0\ref\25feb.dll
