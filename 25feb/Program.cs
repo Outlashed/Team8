@@ -203,11 +203,11 @@ class Program
 
                 if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0)
                 {
-                    Console.WriteLine($"\n{year} er et skudår");
+                    Console.WriteLine($"{year} er et skudår");
                 }
                 else
                 {
-                    Console.WriteLine($"\n{year} er IKKE et skudår.");
+                    Console.WriteLine($"{year} er IKKE et skudår.");
                 }
 
                 break;
